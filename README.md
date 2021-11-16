@@ -1,2 +1,2 @@
 # Python
-A hundred Python Practice questions
+Python Practice questions with documented codes
